@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://cineflex-91ln.onrender.com/">
-    <img src="./assets/cineflex-demo.png" alt="CineFlex Demo" width="800">
+    <img src="./frontend/public/netflix-logo.png" alt="CineFlex Demo" width="800">
   </a>
 </p>
 
