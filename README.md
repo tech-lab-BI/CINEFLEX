@@ -1,6 +1,10 @@
 <h1 align="center">CINEFLEX 🎬</h1>
 
-![Demo App](https://cineflex-91ln.onrender.com/)
+<p align="center">
+  <a href="https://cineflex-91ln.onrender.com/">
+    <img src="./assets/cineflex-demo.png" alt="CineFlex Demo" width="800">
+  </a>
+</p>
 
 
 About This Course:
